@@ -1,4 +1,4 @@
-[
+{"categorias":[
 {"id":1,"name":"backgrounds"},
 {"id":2,"name":"fashion"},
 {"id":3,"name":"nature"},
@@ -20,3 +20,4 @@
 {"id":18, "name":"business"},
 {"id":19, "name":"music"}
 ]
+}
