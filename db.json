@@ -5,8 +5,8 @@
 {"id":14,"name":"science"},
 {"id":4,"name":"education"},
 {"id":5,"name":"feelings"},
-{"id":6,"name":"health"}
-{"id":7, "name":"people"}
+{"id":6,"name":"health"},
+{"id":7, "name":"people"},
 {"id":8, "name":"religion"},
 {"id":9, "name":"places"},
 {"id":10, "name":"animals"},
